@@ -1,3 +1,5 @@
 # Подсчитать количество букв «а» во введенной строке
 
-# TODO: your code here
+text = 'Карова дает малока'
+text = text.count('а')
+print(text)
